@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# TIC TAC TOE
+*[Mar Canovas]*
 
-*[Your Cohort, Campus & Date]*
+*[Alieldin Ramadan and Anna Riera, Barcelona, June 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,22 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+This game is a 2 player version of the popular game TicTacToe.
+Soon it will be also available a Player VS AI version. 
 
 ## Rules
-Briefly describe the rules of the game.
+The goal of the game is to align 3 of your tokens before your opponent.
+The basic commands to interact with the UI are shown at its launch.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+For this project I used a ToDo list in paper and a Trello agile CANVAS.
 
-What does your repository look like? Explain your folder and file structure.
+On the repository you can find the main.py file, which contains the basic 2 player version of the game, and a main_ai.py file, ready to be used in order to implement the AI thoght process.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/MarCanovas/Project-Week-1-Build-Your-Own-Game)
+[Trello](https://trello.com/b/GApCLSM2)  
