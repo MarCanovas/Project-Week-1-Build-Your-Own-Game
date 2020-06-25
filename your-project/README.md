@@ -26,7 +26,7 @@ The basic commands to interact with the UI are shown at its launch.
 ## Organization
 For this project I used a ToDo list in paper and a Trello agile CANVAS.
 
-On the repository you can find the main.py file, which contains the basic 2 player version of the game, and a main_ai.py file, ready to be used in order to implement the AI thoght process.
+On the repository you can find the main.py file, which contains the basic 2 player version of the game, and soon a main_ai.py file, ready to be used in order to implement the AI thoght process.
 
 ## Links
 
