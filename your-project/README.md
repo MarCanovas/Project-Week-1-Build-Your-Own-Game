@@ -3,7 +3,7 @@
 # TIC TAC TOE
 *[Mar Canovas]*
 
-*[Alieldin Ramadan and Anna Riera, Barcelona, June 2020]*
+*[Guillem Perdigó, Alieldin Ramadan and Anna Riera, Barcelona, June 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,8 +13,8 @@
 - [Links](#links)
 
 ## Project Description
-This game is a 2 player version of the popular game TicTacToe.
-Soon it will be also available a Player VS AI version. 
+This project conotains a 2 Player version of the TICTACTOE game and a Player VS AI version. 
+
 
 ## Rules
 The goal of the game is to align 3 of your tokens before your opponent.
